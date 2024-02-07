@@ -50,5 +50,6 @@ def main():
             else:
                 st.error('Diabetes detected.')
 
+
 if __name__ == '__main__':
     main()
